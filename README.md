@@ -10,38 +10,23 @@ Building production-grade async systems, ML pipelines, and research tooling.
 
 ---
 
-## What I work on
-
-| Area | Focus |
-|------|--------|
-| **Backend** | FastAPI, async Python, PostgreSQL, Redis, Kafka, event-driven design |
-| **ML** | RAG, inference APIs, eval harnesses, MLOps, experiment reproducibility |
-| **Fullstack** | React / Next.js, real-time UIs, internal admin & ops dashboards |
-| **Leadership** | RFC/ADR-driven architecture, service templates, observability-first delivery |
-
----
-
 ## Featured projects
 
-### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template) — v0.4 golden path
+### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template) — v0.5 golden path
 
-FastAPI microservice template: `/api/v1`, Redis cache + idempotency, auth stub, Prometheus metrics, request ID middleware, split CI, multi-stage Docker, ADR docs.
+FastAPI microservice template: JWT auth, Redis idempotency (SET NX), rate limiting, audit log, protected metrics, prod settings validator, Helm chart, split CI.
 
 ### [TopGun Research](https://github.com/GavrilovEgorOf/topgun-research)
 
-Evolution-strategy co-evolution arena with 3D neural agents, live WebSocket training feed, and a research dashboard.
+Evolution-strategy co-evolution arena with 3D neural agents, WebSocket training, live demo on GitHub Pages.
 
-- Deterministic simulation · worker-thread population eval · brain visualization
-- CI on Node 20/22 · unit tests · **live static demo on GitHub Pages**
 - [**→ Open live demo**](https://gavrilovegorof.github.io/topgun-research/demo.html)
 
 ---
 
 ## Stack
 
-`Python` · `FastAPI` · `Django` · `PostgreSQL` · `Redis` · `Celery` · `Kafka`  
-`PyTorch` · `LangChain` · `Docker` · `Kubernetes` · `GitHub Actions`  
-`TypeScript` · `React` · `Node.js` · `OpenTelemetry` · `Prometheus`
+`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `OpenTelemetry` · `Prometheus`
 
 ---
 
@@ -49,4 +34,3 @@ Evolution-strategy co-evolution arena with 3D neural agents, live WebSocket trai
 
 - **Email:** gavriloveogr.of@gmail.com
 - **GitHub:** [@GavrilovEgorOf](https://github.com/GavrilovEgorOf)
-- **Demo:** [topgun-research demo](https://gavrilovegorof.github.io/topgun-research/demo.html)
