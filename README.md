@@ -23,9 +23,9 @@ Building production-grade async systems, ML pipelines, and research tooling.
 
 ## Featured projects
 
-### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template)
+### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template) — v0.4 golden path
 
-Production-ready FastAPI microservice golden path: async PostgreSQL, Alembic, structlog, OpenTelemetry, Docker, CI (ruff, mypy, pytest, Testcontainers).
+FastAPI microservice template: `/api/v1`, Redis cache + idempotency, auth stub, Prometheus metrics, request ID middleware, split CI, multi-stage Docker, ADR docs.
 
 ### [TopGun Research](https://github.com/GavrilovEgorOf/topgun-research)
 
@@ -49,4 +49,4 @@ Evolution-strategy co-evolution arena with 3D neural agents, live WebSocket trai
 
 - **Email:** gavriloveogr.of@gmail.com
 - **GitHub:** [@GavrilovEgorOf](https://github.com/GavrilovEgorOf)
-- **Top project:** [topgun-research demo](https://gavrilovegorof.github.io/topgun-research/demo.html)
+- **Demo:** [topgun-research demo](https://gavrilovegorof.github.io/topgun-research/demo.html)
