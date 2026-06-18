@@ -52,4 +52,4 @@ I'm expanding this profile with Python backend and ML platform projects.
 
 - **Email:** gavriloveogr.of@gmail.com
 - **GitHub:** [@GavrilovEgorOf](https://github.com/GavrilovEgorOf)
-- **Demo:** [topgun-research demo](https://gavrilovegorof.github.io/topgun-research/demo.html)
+- **Top project:** [topgun-research demo](https://gavrilovegorof.github.io/topgun-research/demo.html)
