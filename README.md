@@ -21,7 +21,11 @@ Building production-grade async systems, ML pipelines, and research tooling.
 
 ---
 
-## Featured project
+## Featured projects
+
+### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template)
+
+Production-ready FastAPI microservice golden path: async PostgreSQL, Alembic, structlog, OpenTelemetry, Docker, CI (ruff, mypy, pytest, Testcontainers).
 
 ### [TopGun Research](https://github.com/GavrilovEgorOf/topgun-research)
 
@@ -38,13 +42,6 @@ Evolution-strategy co-evolution arena with 3D neural agents, live WebSocket trai
 `Python` · `FastAPI` · `Django` · `PostgreSQL` · `Redis` · `Celery` · `Kafka`  
 `PyTorch` · `LangChain` · `Docker` · `Kubernetes` · `GitHub Actions`  
 `TypeScript` · `React` · `Node.js` · `OpenTelemetry` · `Prometheus`
-
----
-
-## GitHub activity
-
-I'm expanding this profile with Python backend and ML platform projects.  
-**TopGun Research** is the current flagship — more repos coming.
 
 ---
 
