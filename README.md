@@ -5,7 +5,7 @@
 Building production-grade async systems, ML pipelines, and research tooling.  
 **Open to remote roles (EU / US).**
 
-[![TopGun Demo](https://img.shields.io/badge/demo-live-3darena-blue)](https://gavrilovegorof.github.io/topgun-research/demo.html)
+[![Site](https://img.shields.io/badge/demo-live-3darena-blue)](https://gavrilovegorof.github.io/topgun-research/demo.html)
 [![Email](https://img.shields.io/badge/email-gavriloveogr.of%40gmail.com-EA4335)](mailto:gavriloveogr.of@gmail.com)
 
 ---
