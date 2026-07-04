@@ -7,9 +7,13 @@ Currently working as a Team Lead / Technical Architect at N7, building applied A
 ## Core Stack
 
 **Backend:** Python, FastAPI, PostgreSQL, Redis, SQLAlchemy, REST APIs, async Python
+
 **AI:** LLM APIs, RAG, embeddings, vector search, prompt engineering, AI agents, structured outputs, Hugging Face
+
 **DevOps:** Docker, GitHub Actions, Linux, CI/CD, observability, basic Kubernetes/Helm
+
 **Frontend:** JavaScript, HTML, CSS, Vite, Three.js
+
 **Additional experience:** C++, PHP
 
 ## Featured Projects
