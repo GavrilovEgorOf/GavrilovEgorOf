@@ -1,36 +1,55 @@
-# Hi, I'm Egor Gavrilov
+# Egor Gavrilov
 
-**Senior Python Backend · Fullstack · ML Engineer · Tech Lead**
+Python Backend & AI Engineer focused on production-grade backend systems, LLM/RAG applications, and AI workflow automation.
 
-Building production-grade async systems, ML pipelines, and research tooling.  
-**Open to remote roles (EU / US).**
+Currently working as a Team Lead / Technical Architect at N7, building applied AI systems and backend infrastructure for business workflows.
 
-[![Site](https://img.shields.io/badge/demo-live-3darena-blue)](https://gavrilovegorof.github.io/topgun-research/demo.html)
-[![Email](https://img.shields.io/badge/email-gavriloveogr.of%40gmail.com-EA4335)](mailto:gavriloveogr.of@gmail.com)
+## Core Stack
 
----
+**Backend:** Python, FastAPI, PostgreSQL, Redis, SQLAlchemy, REST APIs, async Python
+**AI:** LLM APIs, RAG, embeddings, vector search, prompt engineering, AI agents, structured outputs
+**DevOps:** Docker, GitHub Actions, Linux, CI/CD, observability, basic Kubernetes/Helm
+**Frontend:** JavaScript, HTML, CSS, Vite, Three.js
+**Additional experience:** C#, Unity, Java, C++, PHP
 
-## Featured projects
+## Featured Projects
 
-### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template) — v0.5 golden path
+### Python Service Template
 
-FastAPI microservice template: JWT auth, Redis idempotency (SET NX), rate limiting, audit log, protected metrics, prod settings validator, Helm chart, split CI.
+Production-ready FastAPI microservice template with async PostgreSQL, Alembic migrations, Redis-based idempotency, JWT/API key authentication, rate limiting, audit logging, protected metrics, Docker, CI and Helm support.
 
-### [TopGun Research](https://github.com/GavrilovEgorOf/topgun-research)
+**Why it matters:** this project demonstrates backend architecture, production guardrails, security patterns and service-template thinking.
 
-Evolution-strategy co-evolution arena with 3D neural agents, WebSocket training, live demo on GitHub Pages.
+### TopGun Research
 
-- [**→ Open live demo**](https://gavrilovegorof.github.io/topgun-research/demo.html)
+Evolution-strategy co-evolution arena with 3D neural agents, WebSocket training feed, research dashboard, deterministic simulation, replay system, CI and live demo.
 
----
+**Why it matters:** this project demonstrates ML experimentation, simulation design, real-time visualization and fullstack product thinking.
 
-## Stack
+### Enterprise RAG Assistant
 
-`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `OpenTelemetry` · `Prometheus`
+Production-oriented RAG knowledge base with document upload, embeddings, vector search, source-grounded answers, authentication, audit logs, evals and Docker-based local deployment.
 
----
+**Status:** in progress.
+
+### AI Agent Workflows
+
+AI workflow automation system with tool calling, retries, human approval, structured outputs, cost limits, audit logs and FastAPI backend.
+
+**Status:** in progress.
+
+## What I’m Looking For
+
+I’m open to remote roles and contract work as:
+
+* Python Backend Engineer
+* AI Application Engineer
+* LLM/RAG Engineer
+* Fullstack AI Engineer
+* Founding Engineer in AI/startup teams
 
 ## Contact
 
-- **Email:** gavriloveogr.of@gmail.com
-- **GitHub:** [@GavrilovEgorOf](https://github.com/GavrilovEgorOf)
+* Telegram: https://t.me/darling_b0y
+* LinkedIn: https://www.linkedin.com/in/егор-гаврилов-742a8a383/
+* GitHub: https://github.com/GavrilovEgorOf
