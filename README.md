@@ -30,7 +30,11 @@ Ticket → classify → KB lookup → draft reply → human approve if unsure. F
 
 ### [fullstack-ai-saas](https://github.com/GavrilovEgorOf/fullstack-ai-saas) — Team Knowledge App
 
-Landing, login, doc library, Q&A with citations, monthly query cap.
+Next.js dashboard + FastAPI: login, doc upload jobs, Q&A with citations, history export, usage limits.
+
+### [ai-code-review-bot](https://github.com/GavrilovEgorOf/ai-code-review-bot) — PR Review Bot
+
+GitHub webhook → diff → ruff/mypy/security checks → summary comment with checklist.
 
 ### [topgun-research](https://github.com/GavrilovEgorOf/topgun-research)
 
