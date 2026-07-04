@@ -18,37 +18,37 @@ Currently **Team Lead / Technical Architect @ N7** — applied AI systems and ba
 
 ## Featured Projects
 
+### [llm-gateway](https://github.com/GavrilovEgorOf/llm-gateway)
+
+OpenAI-compatible LLM gateway: provider routing, rate limits, prompt cache, usage/cost tracking, fallback, admin dashboard.
+
+### [enterprise-rag-assistant](https://github.com/GavrilovEgorOf/enterprise-rag-assistant)
+
+Production RAG knowledge base: document upload, hybrid retrieval, citations, offline evals, JWT auth, audit logs.
+
 ### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template)
 
-Production-ready FastAPI microservice template: JWT auth, Redis idempotency, rate limiting, audit logging, protected metrics, Helm chart, split CI.
+Production-ready FastAPI microservice template: JWT, idempotency, rate limiting, audit, Helm, split CI.
 
-**Proves:** backend architecture, security patterns, production guardrails, service-template thinking.
+### [ai-agent-workflows](https://github.com/GavrilovEgorOf/ai-agent-workflows)
+
+AI support triage workflow: classification, tool calling, human approval, token limits, full audit trail.
+
+### [fullstack-ai-saas](https://github.com/GavrilovEgorOf/fullstack-ai-saas)
+
+Fullstack AI SaaS starter: landing, auth, dashboard, knowledge base, mock RAG, usage limits.
 
 ### [topgun-research](https://github.com/GavrilovEgorOf/topgun-research)
 
-Evolution-strategy co-evolution arena with 3D neural agents, WebSocket training feed, research dashboard, deterministic simulation, CI and live demo.
+Evolution-strategy co-evolution arena — 3D neural agents, WebSocket training, [**live demo**](https://gavrilovegorof.github.io/topgun-research/demo.html).
 
-[**→ Live demo**](https://gavrilovegorof.github.io/topgun-research/demo.html)
+### [system-design-notes](https://github.com/GavrilovEgorOf/system-design-notes)
 
-**Proves:** ML experimentation, simulation design, real-time visualization, fullstack product thinking.
-
-## Building Next
-
-Public portfolio repos in active development (check pinned repositories for latest):
-
-- **LLM Gateway** — OpenAI-compatible routing, rate limits, usage tracking, provider fallback
-- **Enterprise RAG Assistant** — document upload, vector search, citations, evals, auth, audit logs
-- **AI Agent Workflows** — tool calling, human approval, cost limits, audit trail
+8 system design diagrams for backend & AI interviews (LLM gateway, RAG, agents, rate limiter, queues, SaaS).
 
 ## Open To
 
-Remote roles and contract work as:
-
-- Backend Engineer / Python Backend Engineer
-- AI Application Engineer / LLM/RAG Engineer
-- Fullstack AI Engineer / Founding Engineer
-
-**Locations:** Europe, US, international startups — remote preferred.
+Remote **Backend Engineer**, **AI Application Engineer**, **LLM/RAG Engineer**, **Fullstack AI Engineer**, **Founding Engineer** — EU, US, international startups.
 
 ## Contact
 
