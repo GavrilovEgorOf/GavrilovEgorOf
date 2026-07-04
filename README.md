@@ -1,59 +1,58 @@
 # Egor Gavrilov
 
-Python Backend & AI Engineer focused on production-grade backend systems, LLM/RAG applications, and AI workflow automation.
+**Backend & AI Systems Engineer** focused on production-grade backend services, LLM infrastructure, RAG systems and AI workflow automation.
 
-Currently working as a Team Lead / Technical Architect at N7, building applied AI systems and backend infrastructure for business workflows.
+I build FastAPI services, LLM/RAG products, AI agents, internal tools, dashboards, CI/CD pipelines and observability-ready backend systems.
+
+Currently **Team Lead / Technical Architect @ N7** — applied AI systems and backend infrastructure for business workflows.
 
 ## Core Stack
 
-**Backend:** Python, FastAPI, PostgreSQL, Redis, SQLAlchemy, REST APIs, async Python
+**Backend:** Python, FastAPI, PostgreSQL, Redis, SQLAlchemy, async Python, REST APIs
 
-**AI:** LLM APIs, RAG, embeddings, vector search, prompt engineering, AI agents, structured outputs, Hugging Face
+**AI:** LLM APIs, RAG, embeddings, vector search, reranking, tool calling, structured outputs, AI agents, evals
 
-**DevOps:** Docker, GitHub Actions, Linux, CI/CD, observability, basic Kubernetes/Helm
+**Product:** TypeScript, React, Next.js, Vite, WebSockets
 
-**Frontend:** JavaScript, HTML, CSS, Vite, Three.js
-
-**Additional experience:** C++, PHP
+**DevOps:** Docker, Docker Compose, GitHub Actions, Linux, OpenTelemetry, CI/CD, metrics
 
 ## Featured Projects
 
-### Python Service Template
+### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template)
 
-Production-ready FastAPI microservice template with async PostgreSQL, Alembic migrations, Redis-based idempotency, JWT/API key authentication, rate limiting, audit logging, protected metrics, Docker, CI and Helm support.
+Production-ready FastAPI microservice template: JWT auth, Redis idempotency, rate limiting, audit logging, protected metrics, Helm chart, split CI.
 
-**Why it matters:** this project demonstrates backend architecture, production guardrails, security patterns and service-template thinking.
+**Proves:** backend architecture, security patterns, production guardrails, service-template thinking.
 
-### TopGun Research
+### [topgun-research](https://github.com/GavrilovEgorOf/topgun-research)
 
-Evolution-strategy co-evolution arena with 3D neural agents, WebSocket training feed, research dashboard, deterministic simulation, replay system, CI and live demo.
+Evolution-strategy co-evolution arena with 3D neural agents, WebSocket training feed, research dashboard, deterministic simulation, CI and live demo.
 
-**Why it matters:** this project demonstrates ML experimentation, simulation design, real-time visualization and fullstack product thinking.
+[**→ Live demo**](https://gavrilovegorof.github.io/topgun-research/demo.html)
 
-### Enterprise RAG Assistant
+**Proves:** ML experimentation, simulation design, real-time visualization, fullstack product thinking.
 
-Production-oriented RAG knowledge base with document upload, embeddings, vector search, source-grounded answers, authentication, audit logs, evals and Docker-based local deployment.
+## Building Next
 
-**Status:** in progress.
+Public portfolio repos in active development (check pinned repositories for latest):
 
-### AI Agent Workflows
+- **LLM Gateway** — OpenAI-compatible routing, rate limits, usage tracking, provider fallback
+- **Enterprise RAG Assistant** — document upload, vector search, citations, evals, auth, audit logs
+- **AI Agent Workflows** — tool calling, human approval, cost limits, audit trail
 
-AI workflow automation system with tool calling, retries, human approval, structured outputs, cost limits, audit logs and FastAPI backend.
+## Open To
 
-**Status:** in progress.
+Remote roles and contract work as:
 
-## What I’m Looking For
+- Backend Engineer / Python Backend Engineer
+- AI Application Engineer / LLM/RAG Engineer
+- Fullstack AI Engineer / Founding Engineer
 
-I’m open to remote roles and contract work as:
-
-* Python Backend Engineer
-* AI Application Engineer
-* LLM/RAG Engineer
-* Fullstack AI Engineer
-* Founding Engineer in AI/startup teams
+**Locations:** Europe, US, international startups — remote preferred.
 
 ## Contact
 
-* Telegram: https://t.me/darling_b0y
-* LinkedIn: https://www.linkedin.com/in/егор-гаврилов-742a8a383/
-* GitHub: https://github.com/GavrilovEgorOf
+- **Telegram:** https://t.me/darling_b0y
+- **LinkedIn:** https://www.linkedin.com/in/egor-gavrilov-backend-ai/
+- **Email:** gavriloveogr.of@gmail.com
+- **GitHub:** https://github.com/GavrilovEgorOf
