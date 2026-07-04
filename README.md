@@ -1,58 +1,51 @@
 # Egor Gavrilov
 
-**Backend & AI Systems Engineer** focused on production-grade backend services, LLM infrastructure, RAG systems and AI workflow automation.
+**Backend & AI Systems Engineer** — FastAPI services, LLM infra, RAG, agent workflows.
 
-I build FastAPI services, LLM/RAG products, AI agents, internal tools, dashboards, CI/CD pipelines and observability-ready backend systems.
+Team Lead / Technical Architect at **N7** (applied AI studio). I ship backends and internal tools: APIs, dashboards, CI, observability.
 
-Currently **Team Lead / Technical Architect @ N7** — applied AI systems and backend infrastructure for business workflows.
+## Stack
 
-## Core Stack
+Python · FastAPI · PostgreSQL · Redis · TypeScript · React · Docker · GitHub Actions · OpenTelemetry
 
-**Backend:** Python, FastAPI, PostgreSQL, Redis, SQLAlchemy, async Python, REST APIs
+LLM APIs · RAG · embeddings · tool calling · evals
 
-**AI:** LLM APIs, RAG, embeddings, vector search, reranking, tool calling, structured outputs, AI agents, evals
+## Projects
 
-**Product:** TypeScript, React, Next.js, Vite, WebSockets
+### [llm-gateway](https://github.com/GavrilovEgorOf/llm-gateway) — LLM API proxy
 
-**DevOps:** Docker, Docker Compose, GitHub Actions, Linux, OpenTelemetry, CI/CD, metrics
+OpenAI-compatible endpoint: API keys, rate limits, prompt cache, provider fallback, usage logs.
 
-## Featured Projects
+### [enterprise-rag-assistant](https://github.com/GavrilovEgorOf/enterprise-rag-assistant) — Doc Knowledge Base
 
-### [llm-gateway](https://github.com/GavrilovEgorOf/llm-gateway)
-
-OpenAI-compatible LLM gateway: provider routing, rate limits, prompt cache, usage/cost tracking, fallback, admin dashboard.
-
-### [enterprise-rag-assistant](https://github.com/GavrilovEgorOf/enterprise-rag-assistant)
-
-Production RAG knowledge base: document upload, hybrid retrieval, citations, offline evals, JWT auth, audit logs.
+Upload docs, ask questions, answers with citations. Hybrid search, eval tests in CI, JWT + audit log.
 
 ### [python-service-template](https://github.com/GavrilovEgorOf/python-service-template)
 
-Production-ready FastAPI microservice template: JWT, idempotency, rate limiting, audit, Helm, split CI.
+FastAPI microservice starter: JWT, idempotency, rate limits, audit, Helm, split CI.
 
-### [ai-agent-workflows](https://github.com/GavrilovEgorOf/ai-agent-workflows)
+### [ai-agent-workflows](https://github.com/GavrilovEgorOf/ai-agent-workflows) — Support Triage
 
-AI support triage workflow: classification, tool calling, human approval, token limits, full audit trail.
+Ticket → classify → KB lookup → draft reply → human approve if unsure. Full step log.
 
-### [fullstack-ai-saas](https://github.com/GavrilovEgorOf/fullstack-ai-saas)
+### [fullstack-ai-saas](https://github.com/GavrilovEgorOf/fullstack-ai-saas) — Team Knowledge App
 
-Fullstack AI SaaS starter: landing, auth, dashboard, knowledge base, mock RAG, usage limits.
+Landing, login, doc library, Q&A with citations, monthly query cap.
 
 ### [topgun-research](https://github.com/GavrilovEgorOf/topgun-research)
 
-Evolution-strategy co-evolution arena — 3D neural agents, WebSocket training, [**live demo**](https://gavrilovegorof.github.io/topgun-research/demo.html).
+Evolution-strategy co-evolution arena — 3D agents, live training feed, [**demo**](https://gavrilovegorof.github.io/topgun-research/demo.html).
 
 ### [system-design-notes](https://github.com/GavrilovEgorOf/system-design-notes)
 
-8 system design diagrams for backend & AI interviews (LLM gateway, RAG, agents, rate limiter, queues, SaaS).
+Interview diagrams: LLM gateway, RAG, agents, rate limiter, queues, SaaS billing.
 
-## Open To
+## Open to
 
-Remote **Backend Engineer**, **AI Application Engineer**, **LLM/RAG Engineer**, **Fullstack AI Engineer**, **Founding Engineer** — EU, US, international startups.
+Remote **Backend**, **LLM/RAG**, **Fullstack AI**, **Founding Engineer** — EU, US, international startups.
 
 ## Contact
 
-- **Telegram:** https://t.me/darling_b0y
-- **LinkedIn:** https://www.linkedin.com/in/egor-gavrilov-backend-ai/
-- **Email:** gavriloveogr.of@gmail.com
-- **GitHub:** https://github.com/GavrilovEgorOf
+- Telegram: https://t.me/darling_b0y
+- LinkedIn: https://www.linkedin.com/in/egor-gavrilov-backend-ai/
+- Email: gavriloveogr.of@gmail.com
