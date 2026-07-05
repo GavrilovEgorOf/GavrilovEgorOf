@@ -52,4 +52,4 @@ Remote **Backend**, **LLM/RAG**, **Fullstack AI**, **Founding Engineer** — EU,
 
 - Telegram: https://t.me/darling_b0y
 - LinkedIn: https://www.linkedin.com/in/egor-gavrilov-backend-ai/
-- Email: gavriloveogr.of@gmail.com
+- Email: gavrilovegor.of@gmail.com
